@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 390" role="img" aria-labelledby="title desc">
+  <title id="title">Tikita, întreținând atmosfera</title>
+  <desc id="desc">Un personaj desenat de mână poartă căști și mixează la un pupitru, înconjurat de note muzicale.</desc>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Loose music marks -->
+    <path stroke-width="5" d="M89 131c4-12 10-22 19-28m-11 29c9-4 17-5 26-3m267-23 9-14 9 15m-9-15v32m26 80c5-10 12-17 22-21m-18 18 20 4M117 216l9-14 9 14m-9-14v27m251-123 8-13 9 13m-9-13v22"/>
+    <path stroke-width="3" d="M71 185c9-8 20-10 32-6m323-20c9-5 18-5 27 0m-86 167c12 5 23 4 33-3M154 75c8-6 15-7 23-5"/>
+    <circle cx="137" cy="95" r="3" fill="#fff"/><circle cx="428" cy="128" r="3" fill="#fff"/><circle cx="99" cy="251" r="3" fill="#fff"/>
+
+    <!-- Headphones behind the ticket-shaped head -->
+    <path stroke-width="7" d="M183 128c-7-50 19-88 66-91 49-3 78 34 74 86"/>
+    <path stroke-width="6" d="M188 116c-11-4-22 4-24 18l-2 27c-1 13 7 20 18 18l13-3m114-61c12-3 22 6 23 19l1 25c1 12-7 19-18 17l-13-3"/>
+    <path stroke-width="2.5" d="M181 122c-8 1-13 8-14 17m160-19c8 1 13 8 14 17"/>
+
+    <!-- Original ticket-headed DJ -->
+    <path stroke-width="6" d="M201 94c2-16 11-27 27-31l43 2c18 2 29 13 30 31l-3 32c-2 17-13 28-30 29l-42-2c-17-2-27-13-27-29l2-32z"/>
+    <path stroke-width="3" d="M207 98c2-12 9-20 21-23m59 5c7 5 11 12 11 22M203 125l5-3m89 29 6-4"/>
+    <path stroke-width="4" d="M218 111c6-4 12-4 18 0m34 2c6-4 12-4 18 0m-45 18c10 7 21 8 32 2"/>
+    <circle cx="228" cy="112" r="2.6" fill="#fff"/><circle cx="278" cy="113" r="2.6" fill="#fff"/>
+    <path stroke-width="3" d="M244 121l-3 7 7 1"/>
+    <path stroke-width="2.5" stroke-dasharray="2 6" d="M203 109v18m94-18v18"/>
+
+    <!-- Body and arms, leaning into the mix -->
+    <path stroke-width="6" d="M218 154c-19 8-30 19-34 37l-7 38m83-72c18 4 33 15 42 32l12 26m-98-61c11 8 25 12 40 12s27-5 37-14"/>
+    <path stroke-width="5.5" d="M187 181c-14 3-25 12-32 25l-7 17c-3 8 1 14 9 15 6 1 10-2 13-8l10-16 13-9m119-32c16-4 30 2 40 14l12 15c5 7 3 14-4 17-6 3-11 0-15-5l-13-13-18-8"/>
+    <path stroke-width="3" d="M148 224c-3 5-4 9-1 13m211-32c5-4 10-5 14-2m-215 24 8-7m202-14 7 6"/>
+    <path stroke-width="5" d="M207 158c-8 16-12 35-11 57m72-58c10 18 15 36 15 56"/>
+
+    <!-- Turntable / mixer deck -->
+    <path stroke-width="6" d="M90 278l276-57 72 38-279 67-69-40z"/>
+    <path stroke-width="3" d="M102 282l269-55m-11 18 61 31m-262 39 1 15m263-63 3 14"/>
+    <path stroke-width="5" d="M125 274l67-14 34 18-68 16-33-20zm177-37 48-10 35 18-49 11-34-19z"/>
+    <ellipse stroke-width="4" cx="157" cy="275" rx="20" ry="10" transform="rotate(-12 157 275)"/>
+    <ellipse stroke-width="2.5" cx="157" cy="275" rx="8" ry="4" transform="rotate(-12 157 275)"/>
+    <path stroke-width="3.5" d="M250 269l19-4m-14 11 20-5m-13 12 21-5m-10-24 3 19m9-23 3 19m37-47 12-2m-5 12 12-2m-8 12 11-2"/>
+    <circle cx="356" cy="250" r="4" fill="#fff"/><circle cx="376" cy="245" r="3" fill="#fff"/><circle cx="294" cy="263" r="3" fill="#fff"/>
+
+    <!-- Second-pass sketch strokes -->
+    <path stroke-width="2.3" d="M187 126c-5-48 21-84 63-87 45-3 73 29 72 79m-117-23c5-14 14-22 27-25m-22 27c-1 14 0 27 2 39m89-32c-1 12-1 22 1 31m-117 57c-13 5-22 14-27 26m146-41c13-2 24 4 31 14m-34-17c15 1 25 8 32 19M93 280l278-57m-264 78 270-67"/>
+    <path stroke-width="2" stroke-dasharray="2 7" d="M110 298l-9-6m304-34 10 3m-220 54 3 13m85-44 8-2m92-118 4-7"/>
+  </g>
+</svg>
